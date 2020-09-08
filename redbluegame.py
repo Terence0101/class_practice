@@ -15,4 +15,5 @@ for i in range (len(computer)):
             combomax = combo
     else:
         combo = 0
+        
 print(score,combomax)
